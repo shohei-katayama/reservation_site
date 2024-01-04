@@ -1,24 +1,63 @@
-# README
+<!—居酒屋予約サイト-->
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+サイト概要
 
-* Ruby version
+サイトテーマ
 
-* System dependencies
+* 幹事に優しい予約サイト
 
-* Configuration
+前職または学生時代の経験を元に活かせそうなもの
 
-* Database creation
+* 幹事を多くした経験
 
-* Database initialization
 
-* How to run the test suite
+テーマを選んだ理由
 
-* Services (job queues, cache servers, search engines, etc.)
+* 幹事をした際に大人数での日時調整や希望の金額帯、お店の決定など多くの決め事がありまとめることが大変だったため
+  ・今までのサイトには見なかったそのサイト内での宴会に参加する人のグループがあればその宴会でどこに行ったか、誰と行ったかが残ると思ったから。
 
-* Deployment instructions
 
-* ...
+
+ターゲットユーザ
+
+* 大人数での宴会の幹事をする方
+* 4.5人でもお酒を飲みたい方
+* 新しいお店に行ったみたい方
+  
+
+
+
+主な利用シーン
+
+* 忘年会や新年会、送別会や歓迎会など大人数での状況に絞った店舗を記載
+  ・グループ作成でその場で意見が発信できる環境がある 
+
+
+
+設計書
+
+* 後日記入で問題ございません
+
+
+
+開発環境
+
+* 後日記入で問題ございません
+
+
+
+使用素材
+
+* 後日記入で問題ございません
+
+⚠️注意点⚠️
+
+    * 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+    * アプリケーションの実装に使用したgem/bootstrapのリファレンスなどの記載は不要です。
+    * 使用しない場合は、使用素材の項目をREADMEから削除してください。
+
+
+
+    * 自分の持っている画像やお店のオリジナル商品じゃない料理写真、画像の一部切り取りなどで用意する。（*パーティをしてそうな画像は「イメージです」を記載する）
+
